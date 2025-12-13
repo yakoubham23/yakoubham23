@@ -109,6 +109,14 @@ _Futuristic theme inspired by 2070: neon accents, sleek badges, and compact visu
 <!-- Visitor counter (animated digits) -->
 <img src="https://visitcount.itsvg.in/api?id=yakoubham23&label=Profile%20Views&color=12&icon=github&pretty=true" alt="visits" />
 
+<!-- Contribution snake (auto-updated by GH Actions) -->
+<div align="center">
+  <img src="assets/snake_dark.svg" alt="contribution snake" />
+  <br/>
+  <sub>Animated contribution graph • updated daily</sub>
+  <br/>
+</div>
+
 ## Currently Learning
 - Advanced ML/DL workflows (model optimization, deployment basics)
 - Big Data patterns and scalable data processing
