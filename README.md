@@ -4,6 +4,12 @@
 
 Full‑Stack Developer • Data Scientist • M1 Bioinformatics — USTHB (Algeria)
 
+<!-- Animated intro typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+intelligent+data+systems;Full%E2%80%91Stack+%2B+Data+Science;Bioinformatics+%40+USTHB;Open+to+Work+%26+Collaboration" alt="typing intro" />
+
+<!-- Futuristic banner (subtle animated gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&text=Futur%20Ready%20%7C%202070%20Style&fontColor=ffffff&color=0:0a0f1f,100:001f3f&animation=fadeIn&height=60" alt="banner" />
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
@@ -74,9 +80,12 @@ _Tip: Pin key repos on your profile for quick access and visibility._
 ## Stats
 <div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yakoubham23&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yakoubham23&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yakoubham23&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yakoubham23&layout=compact&theme=tokyonight)
+
+<!-- Commit streak (animated) -->
+<img src="https://streak-stats.demolab.com?user=yakoubham23&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="streak" />
 
 </div>
 
@@ -97,6 +106,9 @@ _Futuristic theme inspired by 2070: neon accents, sleek badges, and compact visu
 - Work mode: Remote or hybrid • CET/UTC+1 timezone • Flexible student schedule
 - Response window: 24–48h (weekdays)
 
+<!-- Visitor counter (animated digits) -->
+<img src="https://visitcount.itsvg.in/api?id=yakoubham23&label=Profile%20Views&color=12&icon=github&pretty=true" alt="visits" />
+
 ## Currently Learning
 - Advanced ML/DL workflows (model optimization, deployment basics)
 - Big Data patterns and scalable data processing
@@ -110,5 +122,5 @@ _Futuristic theme inspired by 2070: neon accents, sleek badges, and compact visu
 - Iterate on performance, testing, and maintainability.
 
 <div align="right">
-  <sub>Profile README — last updated: 2025‑12‑13 • Visual style: 2070‑inspired</sub>
+  <sub>Profile README — last updated: 2025‑12‑13 • Visual style: 2070‑inspired • Animated elements enabled</sub>
 </div>
