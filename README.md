@@ -33,6 +33,13 @@ I am a full‑stack developer and data scientist pursuing a Master 1 in Bioinfor
 
 **Open to work** and **open to collaboration/internships** — see availability below.
 
+<div>
+  
+  ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-yes-brightgreen?logo=github)
+  ![Collaboration](https://img.shields.io/badge/Collaboration-internships%20%7C%20projects-00B3FF)
+  
+</div>
+
 ## Skills
 - Programming: Python, JavaScript, TypeScript, Java
 - Backend: Spring Boot, Django, Express/Node.js, REST APIs, Auth, ORM
@@ -84,6 +91,11 @@ _Futuristic theme inspired by 2070: neon accents, sleek badges, and compact visu
 **Open to collaboration/internships:** Yes — areas: full‑stack platforms, data science/ML, bioinformatics applications. **Timeframe:** current academic year.
 
 **Open to work:** Yes — remote or hybrid. Prefer roles blending engineering with applied AI/data.
+
+### Availability
+- Collaboration/internships: Full‑stack, Data Science/ML, Bioinformatics • Current academic year
+- Work mode: Remote or hybrid • CET/UTC+1 timezone • Flexible student schedule
+- Response window: 24–48h (weekdays)
 
 ## Currently Learning
 - Advanced ML/DL workflows (model optimization, deployment basics)
