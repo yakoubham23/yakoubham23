@@ -73,9 +73,6 @@ I am a full‑stack developer and data scientist pursuing a Master 1 in Bioinfor
 
 ## Featured Projects
 - [bioinfo‑arbres‑naire‑2025](https://github.com/yakoubham23/bioinfo-arbres-naire-2025) — N‑ary trees in Python: operations, complexity analysis, experimental evaluation, tests & docs.
-- More projects (Udemy course implementations, ML/DL pipelines) will be added soon.
-
-_Tip: Pin key repos on your profile for quick access and visibility._
 
 ## Stats
 <div>
@@ -93,7 +90,6 @@ _Futuristic theme inspired by 2070: neon accents, sleek badges, and compact visu
 
 ## Contact
 - Email: **hamrarasyakoub9@gmail.com**
-- LinkedIn: add your profile link (to be updated)
 - Location: Algeria (USTHB — Algiers)
 - Availability: CET/UTC+1
 
@@ -121,12 +117,8 @@ _Futuristic theme inspired by 2070: neon accents, sleek badges, and compact visu
 - Advanced ML/DL workflows (model optimization, deployment basics)
 - Big Data patterns and scalable data processing
 - Deeper bioinformatics toolchains and applied algorithms
-- Udemy courses (to be listed) — practical projects and certifications
 
-## Goals
-- Build a professional GitHub portfolio with clean structure and documentation.
-- Deliver end‑to‑end data products: ingestion → modeling → API/UI.
-- Publish bioinformatics‑oriented projects demonstrating applied algorithms.
+
 - Iterate on performance, testing, and maintainability.
 
 <div align="right">
